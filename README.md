@@ -3,8 +3,8 @@
 <h1> Neste projeto foram utilizados: </h1>
 
 <ol>
-*HTML
-*CSS
-*Javascript
+*HTML <br>
+*CSS <br>
+*Javascript<br>
 </ol>
 
