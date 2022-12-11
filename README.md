@@ -2,9 +2,9 @@
 
 <h1> Neste projeto foram utilizados: </h1>
 
-<list>
+<ol>
 *HTML
 *CSS
 *Javascript
-</list>
+</ol>
 
