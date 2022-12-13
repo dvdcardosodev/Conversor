@@ -19,6 +19,7 @@ const convertValues = () => {
             { style: 'currency', currency: 'USD' }
         ).format(inputReal / dolar);
     }
+    
     if (select.value === '€ Euro') {
         currencyValueText.innerHTML = new Intl.NumberFormat('de-DE',
             { style: 'currency', currency: 'EUR' }
